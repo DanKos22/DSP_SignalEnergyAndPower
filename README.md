@@ -1,0 +1,1 @@
+This repository contains a simple Python script to calculate and demonstrate the energy and power of a discrete-time signal. It includes functions to compute signal energy and average power, with optional plotting of the signal for visualization.
